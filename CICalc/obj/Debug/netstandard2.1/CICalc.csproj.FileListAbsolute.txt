@@ -178,7 +178,6 @@ C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CIC
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\CICalc.RazorTargetAssemblyInfo.cache
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\CICalc.csproj.CopyComplete
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\esz0PFqq1AdrJ0okfQHCW7Pw_txvroVxtD8CDIscGQ0=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CIC
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\19aFpUiklXsSD1_dYcs563bHXgKVeTz8OQBq2xAi3h8=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\d1udmztrggsQzSRfVSwaMZ6C-RxQhidOjnH4AUz4Q6k=.hash
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\CICalc.dll.gz
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,8 @@ C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CIC
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\staticwebassets\CICalc.StaticWebAssets.xml
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\CICalc.dll
 C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\CICalc.pdb
+C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\CompoundInterest.razor.g.cs
+C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\Razor\CompoundInterest.razor.g.cs
+C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\EqCpbjcgBtofDgIplTBGUdHYwc6l_kkfoFC5CEMWahs=.hash
+C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\K3oJSKVDOmNumeQe5oI3dmQwNynzJgVP78QIl4a0PP0=.hash
+C:\Users\dbranche\OneDrive - SWK Technologies\Documents\Repos\blazor_web_app\CICalc\obj\Debug\netstandard2.1\integrity\CBt6AJYQIj6IaINJUOp61cLNj6YVzC31jkcoKhph2EQ=.hash
